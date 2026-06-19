@@ -1,3 +1,9 @@
+## 0.0.2
+
+- Render the README demo GIFs via absolute GitHub raw URLs so they show on the
+  pub.dev package page (pub.dev does not resolve relative paths in HTML
+  `<img>` tags).
+
 ## 0.0.1
 
 Initial release.

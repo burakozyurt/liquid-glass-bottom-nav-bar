@@ -1,8 +1,9 @@
 # Demo assets
 
-GIFs used by the main README. They are kept in the repository (so the README
-renders on GitHub and pub.dev) but excluded from the published package archive
-via `.pubignore`, since pub.dev resolves relative image links against the repo.
+GIFs used by the main README. They are kept in the repository and referenced
+from the README via absolute `raw.githubusercontent.com` URLs (pub.dev does not
+resolve relative paths in HTML `<img>` tags, only in markdown images). They are
+excluded from the published package archive via `.pubignore`.
 
 | File | Shows |
 |------|-------|
