@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="doc/assets/hero.gif" alt="Liquid Glass Bottom Bar demo" width="280">
+  <img src="doc/assets/hero.gif" alt="Liquid Glass bottom bar refracting the content behind it" width="280">
 </p>
 
 Most "glass" packages just blur the background. This one draws a hand-rolled
@@ -50,9 +50,9 @@ target.
 
 ## Gallery
 
-| Refraction | Scroll-to-minimize | Spring selection | Settings playground |
+| Scroll-to-minimize | Spring selection | Page transitions | Settings playground |
 |:---:|:---:|:---:|:---:|
-| <img src="doc/assets/refraction.gif" alt="Edge refraction over colorful content" width="200"> | <img src="doc/assets/minimize.gif" alt="Scroll to minimize" width="200"> | <img src="doc/assets/selection.gif" alt="Spring-driven selection pill" width="200"> | <img src="doc/assets/playground.gif" alt="Live settings playground" width="200"> |
+| <img src="doc/assets/minimize.gif" alt="Scroll to minimize" width="200"> | <img src="doc/assets/selection.gif" alt="Spring-driven selection pill" width="200"> | <img src="doc/assets/navigation.gif" alt="Page transitions across destinations" width="200"> | <img src="doc/assets/playground.gif" alt="Live settings playground" width="200"> |
 
 ## Install
 

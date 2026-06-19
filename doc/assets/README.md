@@ -6,10 +6,10 @@ via `.pubignore`, since pub.dev resolves relative image links against the repo.
 
 | File | Shows |
 |------|-------|
-| `hero.gif` | Top-of-README hero — navigating across destinations. |
-| `refraction.gif` | Edge refraction / lensing over vivid content. |
+| `hero.gif` | Top-of-README hero — edge refraction / lensing over vivid content. |
 | `minimize.gif` | Scroll-to-minimize collapsing the capsule. |
 | `selection.gif` | Spring-driven selection pill. |
+| `navigation.gif` | Page transitions across destinations. |
 | `playground.gif` | The settings playground tuning the glass live. |
 
 Source clips were ~960×2082 screen recordings; re-encoded to ~280–340 px wide,
