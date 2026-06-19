@@ -1,7 +1,7 @@
-# liquid_glass_bottom_nav_bar example
+# liquid_glass_bottom_navbar_plus example
 
 A demo app showcasing every feature of
-[`liquid_glass_bottom_nav_bar`](https://pub.dev/packages/liquid_glass_bottom_nav_bar),
+[`liquid_glass_bottom_navbar_plus`](https://pub.dev/packages/liquid_glass_bottom_navbar_plus),
 with a light/dark toggle.
 
 ```sh

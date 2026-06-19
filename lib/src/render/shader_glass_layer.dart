@@ -43,7 +43,7 @@ class ShaderGlassLayer extends StatefulWidget {
 
   /// Asset key of the bundled fragment program.
   static const String shaderAsset =
-      'packages/liquid_glass_bottom_nav_bar/shaders/liquid_glass.frag';
+      'packages/liquid_glass_bottom_navbar_plus/shaders/liquid_glass.frag';
 
   @override
   State<ShaderGlassLayer> createState() => _ShaderGlassLayerState();
@@ -97,7 +97,7 @@ class _ShaderGlassLayerState extends State<ShaderGlassLayer> {
           FlutterErrorDetails(
             exception: error,
             stack: stack,
-            library: 'liquid_glass_bottom_nav_bar',
+            library: 'liquid_glass_bottom_navbar_plus',
             context: ErrorDescription(
               'loading the Liquid Glass fragment program '
               '("${ShaderGlassLayer.shaderAsset}") — falling back to '

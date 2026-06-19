@@ -1,4 +1,4 @@
-name: liquid_glass_bottom_nav_bar
+name: liquid_glass_bottom_navbar_plus
 description: "A drop-in Flutter bottom bar with Apple iOS 26 Liquid Glass — refraction, specular highlights, fluid morph and scroll-minimize, with a frosted fallback."
 version: 0.0.1
 homepage: https://github.com/burakozyurt/liquid-glass-bottom-nav-bar

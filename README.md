@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://pub.dev/packages/liquid_glass_bottom_nav_bar"><img src="https://img.shields.io/pub/v/liquid_glass_bottom_nav_bar.svg?logo=dart&label=pub" alt="pub version"></a>
-  <a href="https://pub.dev/packages/liquid_glass_bottom_nav_bar/score"><img src="https://img.shields.io/pub/points/liquid_glass_bottom_nav_bar.svg?label=pub%20points" alt="pub points"></a>
+  <a href="https://pub.dev/packages/liquid_glass_bottom_navbar_plus"><img src="https://img.shields.io/pub/v/liquid_glass_bottom_navbar_plus.svg?logo=dart&label=pub" alt="pub version"></a>
+  <a href="https://pub.dev/packages/liquid_glass_bottom_navbar_plus/score"><img src="https://img.shields.io/pub/points/liquid_glass_bottom_navbar_plus.svg?label=pub%20points" alt="pub points"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"></a>
   <img src="https://img.shields.io/badge/platforms-iOS%20%7C%20Android%20%7C%20macOS%20%7C%20web%20%7C%20desktop-lightgrey.svg" alt="platforms">
 </p>
@@ -58,11 +58,11 @@ target.
 
 ```yaml
 dependencies:
-  liquid_glass_bottom_nav_bar: ^0.0.1
+  liquid_glass_bottom_navbar_plus: ^0.0.1
 ```
 
 ```sh
-flutter pub add liquid_glass_bottom_nav_bar
+flutter pub add liquid_glass_bottom_navbar_plus
 ```
 
 ## Usage
@@ -73,7 +73,7 @@ the glass:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:liquid_glass_bottom_nav_bar/liquid_glass_bottom_nav_bar.dart';
+import 'package:liquid_glass_bottom_navbar_plus/liquid_glass_bottom_navbar_plus.dart';
 
 class HomeShell extends StatefulWidget {
   const HomeShell({super.key});

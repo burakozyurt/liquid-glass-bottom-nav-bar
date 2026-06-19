@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:liquid_glass_bottom_nav_bar/liquid_glass_bottom_nav_bar.dart';
+import 'package:liquid_glass_bottom_navbar_plus/liquid_glass_bottom_navbar_plus.dart';
 
 /// Shared destinations used across the demo pages.
 const demoItems = <LiquidGlassBarItem>[

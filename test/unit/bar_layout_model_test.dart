@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_bottom_nav_bar/src/state/bar_layout_model.dart';
+import 'package:liquid_glass_bottom_navbar_plus/src/state/bar_layout_model.dart';
 
 void main() {
   group('BarLayoutModel', () {

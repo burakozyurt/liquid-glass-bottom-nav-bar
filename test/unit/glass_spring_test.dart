@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_bottom_nav_bar/src/state/glass_spring.dart';
+import 'package:liquid_glass_bottom_navbar_plus/src/state/glass_spring.dart';
 
 void main() {
   group('GlassSpring', () {

@@ -1,7 +1,7 @@
 import 'package:flutter/rendering.dart' show ScrollDirection;
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_bottom_nav_bar/liquid_glass_bottom_nav_bar.dart';
-import 'package:liquid_glass_bottom_nav_bar/src/state/minimize_machine.dart';
+import 'package:liquid_glass_bottom_navbar_plus/liquid_glass_bottom_navbar_plus.dart';
+import 'package:liquid_glass_bottom_navbar_plus/src/state/minimize_machine.dart';
 
 void main() {
   group('MinimizeMachine.resolve', () {

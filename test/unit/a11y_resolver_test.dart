@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_bottom_nav_bar/liquid_glass_bottom_nav_bar.dart';
-import 'package:liquid_glass_bottom_nav_bar/src/accessibility/a11y_resolver.dart';
+import 'package:liquid_glass_bottom_navbar_plus/liquid_glass_bottom_navbar_plus.dart';
+import 'package:liquid_glass_bottom_navbar_plus/src/accessibility/a11y_resolver.dart';
 
 void main() {
   group('A11yResolver', () {

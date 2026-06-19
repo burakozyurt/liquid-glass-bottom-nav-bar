@@ -115,7 +115,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.1.0"
-  liquid_glass_bottom_nav_bar:
+  liquid_glass_bottom_navbar_plus:
     dependency: "direct main"
     description:
       path: ".."

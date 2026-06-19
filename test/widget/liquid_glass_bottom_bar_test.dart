@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_bottom_nav_bar/liquid_glass_bottom_nav_bar.dart';
+import 'package:liquid_glass_bottom_navbar_plus/liquid_glass_bottom_navbar_plus.dart';
 
 const _items = [
   LiquidGlassBarItem(icon: Icon(Icons.home), label: 'Home'),
