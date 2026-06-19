@@ -1,0 +1,4 @@
+# Demo GIFs render from the GitHub repo (pub.dev resolves relative README image
+# links against `repository`), so they don't need to ship in the package
+# archive — keeping `pub publish` small.
+*.gif

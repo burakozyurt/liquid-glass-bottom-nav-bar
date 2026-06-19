@@ -1,7 +1,4 @@
-<!--
-  GIF placeholders live in doc/assets/ — see doc/assets/README.md.
-  Add a file with the matching name and it appears here automatically.
--->
+<!-- Demo GIFs live in doc/assets/ (see doc/assets/README.md). -->
 
 <h1 align="center">Liquid Glass Bottom Bar</h1>
 
@@ -20,8 +17,7 @@
 </p>
 
 <p align="center">
-  <!-- TODO(gif): doc/assets/hero.gif -->
-  <img src="doc/assets/hero.gif" alt="Liquid Glass Bottom Bar demo" width="320">
+  <img src="doc/assets/hero.gif" alt="Liquid Glass Bottom Bar demo" width="280">
 </p>
 
 Most "glass" packages just blur the background. This one draws a hand-rolled
@@ -54,13 +50,9 @@ target.
 
 ## Gallery
 
-<!-- Drop the GIFs into doc/assets/ and this table fills itself in. -->
-
-| Refraction | Scroll-to-minimize | Spring selection |
-|:---:|:---:|:---:|
-| <img src="doc/assets/refraction.gif" alt="Edge refraction" width="240"> | <img src="doc/assets/minimize.gif" alt="Scroll to minimize" width="240"> | <img src="doc/assets/selection.gif" alt="Selection pill" width="240"> |
-| **Search morph** | **Bottom accessory** | **Settings playground** |
-| <img src="doc/assets/search.gif" alt="Search morph" width="240"> | <img src="doc/assets/accessory.gif" alt="Bottom accessory" width="240"> | <img src="doc/assets/playground.gif" alt="Settings playground" width="240"> |
+| Refraction | Scroll-to-minimize | Spring selection | Settings playground |
+|:---:|:---:|:---:|:---:|
+| <img src="doc/assets/refraction.gif" alt="Edge refraction over colorful content" width="200"> | <img src="doc/assets/minimize.gif" alt="Scroll to minimize" width="200"> | <img src="doc/assets/selection.gif" alt="Spring-driven selection pill" width="200"> | <img src="doc/assets/playground.gif" alt="Live settings playground" width="200"> |
 
 ## Install
 
