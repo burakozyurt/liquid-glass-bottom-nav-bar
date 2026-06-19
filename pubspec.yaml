@@ -1,15 +1,28 @@
-name: liquid_glass_bottom_bar
-description: "A new Flutter package project."
+name: liquid_glass_bottom_nav_bar
+description: "A drop-in Flutter bottom bar with Apple iOS 26 Liquid Glass — refraction, specular highlights, fluid morph and scroll-minimize, with a frosted fallback."
 version: 0.0.1
-homepage:
+homepage: https://github.com/burakozyurt/liquid-glass-bottom-nav-bar
+repository: https://github.com/burakozyurt/liquid-glass-bottom-nav-bar
+issue_tracker: https://github.com/burakozyurt/liquid-glass-bottom-nav-bar/issues
+
+# pub.dev topics — surfaced on the package page and in search.
+topics:
+  - liquid-glass
+  - glassmorphism
+  - navigation-bar
+  - bottom-bar
+  - shader
 
 environment:
   sdk: ^3.10.7
-  flutter: ">=1.17.0"
+  flutter: ">=3.29.0"
 
 dependencies:
   flutter:
     sdk: flutter
+  # Utilities around ui.FragmentProgram (AnimatedSampler / ShaderBuilder) used
+  # by the shader path. Wired in M2.
+  flutter_shaders: ^0.1.3
 
 dev_dependencies:
   flutter_test:
@@ -21,6 +34,11 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+
+  # GLSL fragment shaders for the Liquid Glass material (Impeller path).
+  # Includes (shaders/include/*.glsl) are resolved by impellerc at build time.
+  shaders:
+    - shaders/liquid_glass.frag
 
   # To add assets to your package, add an assets section, like this:
   # assets:
